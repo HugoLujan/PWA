@@ -11,9 +11,9 @@
     "lang": "es-MX",
     "icons": [
         {
-            "src": "./assets/img/favicon/favicon.png",
+            "src": "./assets/img/moai.jpg",
             "sizes": "1024x1024",
-            "type": "image/png"
+            "type": "image/jpg"
         },
         {
 
