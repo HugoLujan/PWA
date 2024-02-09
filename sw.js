@@ -8,6 +8,7 @@ var urlToCache = [
     './assets/img/moai64x64.jpg',
     './assets/img/moai128x128.jpg',
     './assets/img/moai512x512.jpg',
+    './assets/img/blender.png'
 ];
 
 self.addEventListener('install', e => {
