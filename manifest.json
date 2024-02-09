@@ -12,7 +12,12 @@
     "icons": [
         {
             "src": "./assets/img/moai.jpg",
-            "sizes": "1024x1024",
+            "sizes": "1920x1920",
+            "type": "image/jpg"
+        },
+        {
+            "src": "./assets/img/moai64x64.jpg",
+            "sizes": "64x64",
             "type": "image/jpg"
         },
         {
