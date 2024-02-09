@@ -16,6 +16,11 @@
             "type": "image/jpg"
         },
         {
+            "src": "./assets/img/moai32x32.jpg",
+            "sizes": "32x32",
+            "type": "image/jpg"
+        },
+        {
 
         }
     ]
