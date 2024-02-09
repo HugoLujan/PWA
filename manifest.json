@@ -31,6 +31,11 @@
             "type": "image/jpg"
         },
         {
+            "src": "./assets/img/blender.png",
+            "sizes": "32x32",
+            "type": "image/png"
+        },
+        {
 
         }
     ]
